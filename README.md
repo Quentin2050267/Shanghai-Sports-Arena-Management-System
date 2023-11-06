@@ -25,7 +25,10 @@ The implementation of the Shanghai Sports Arena Management System is technically
 ![data flow](assets/DataFlow.png)
 
 ## Screen Shot
-
+![login](assets/login.png)
+![add](assets/add.png)
+![edit](assets/edit.png)
+![more](assets/more.png)
 
 ## Video Demonstration
 [![Video Link](https://img.youtube.com/vi/xBLYpWMxy5w/0.jpg)](https://www.youtube.com/watch?v=xBLYpWMxy5w)
