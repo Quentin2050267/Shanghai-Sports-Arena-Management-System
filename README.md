@@ -23,7 +23,7 @@ The implementation of the Shanghai Sports Arena Management System is technically
 
 ## Data Flow Diagram
 ![data flow](assets/DataFlow.png)
-<img src="assets/DataFlow.png" width="100px">
+<img src="assets/DataFlow.png" width="500px">
 ## Screen Shot
 ![login](assets/login.png)
 ![add](assets/add.png)
