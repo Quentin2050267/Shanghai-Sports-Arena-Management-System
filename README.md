@@ -1,4 +1,4 @@
 # Shanghai-Sports-Arena-Management-System
 Database Course Design Project
 
-![data flow](Data Flow Diagram.png)
+![data flow](assets/Data Flow Diagram.png)
