@@ -27,5 +27,5 @@ The implementation of the Shanghai Sports Arena Management System is technically
 ## Screen Shot
 
 ## Video Demonstration
-[![Alt text](https://img.youtube.com/vi/xBLYpWMxy5w/0.jpg)](https://youtu.be/xBLYpWMxy5w)
+[![Alt text](https://img.youtube.com/vi/xBLYpWMxy5w/0.jpg)](https://www.youtube.com/watch?v=xBLYpWMxy5w)
 <video src="assets/video.mp4" width="640" height="480" controls></video>
