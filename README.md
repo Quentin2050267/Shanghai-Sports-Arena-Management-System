@@ -22,13 +22,12 @@ The implementation of the Shanghai Sports Arena Management System is technically
 5. User Authentication and Authorization Management: Implement user authentication and authorization management functions to ensure that only authorized administrators can perform management operations, while regular users can only make reservations and modify personal information.
 
 ## Data Flow Diagram
-![data flow](assets/DataFlow.png)
 <img src="assets/DataFlow.png" width="800px">
 ## Screen Shot
-![login](assets/login.png)
-![add](assets/add.png)
-![edit](assets/edit.png)
-![more](assets/more.png)
+<img src="assets/login.png" width="800px">
+<img src="assets/add.png" width="800px">
+<img src="assets/edit.png" width="800px">
+<img src="assets/more.png" width="800px">
 
 ## Video Demonstration
 [![Video Link](https://img.youtube.com/vi/xBLYpWMxy5w/0.jpg)](https://www.youtube.com/watch?v=xBLYpWMxy5w)
